@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Desenvolvimento\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Dropbox\Desenvolvimento\Projetos\Android Studio Projects\ChequesOKI\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c67550f31612eee5a01153e02193865f4f192e01.jar" />
+    </item>
+    <item
+        jar="D:\Dropbox\Desenvolvimento\Projetos\Android Studio Projects\ChequesOKI\app\libs\ApiChequeOKI.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8218821c635447a3fa55c3a34e9b40dca0032aff">
+        <dex dex="D:\Dropbox\Desenvolvimento\Projetos\Android Studio Projects\ChequesOKI\app\build\intermediates\pre-dexed\debug\ApiChequeOKI-486d8a892266e75e92332df8c2733e249b65fefd.jar" />
+    </item>
+
+</items>
